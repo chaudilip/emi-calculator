@@ -7,4 +7,4 @@ Simple EMI Calculator as an exercise for Modern Software Development workshop.
 
 MIT
 
-FOLLOW FOR MORE UPDATES ❤️. 
+FOLLOW FOR MORE UPDATES❤️.
